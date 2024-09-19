@@ -1,7 +1,7 @@
 # Custom Linux Shell: Command Execution, Piping, and Built-In Functionalities
 
 ## Overview
-This project implements a basic Linux shell similar to the bash shell, providing functionality for executing user commands, handling pipes, and implementing built-in commands like `cd`, `history`, and `exit`. The shell interacts with the user through a prompt (MTL458 >) and can handle common Linux commands, user interrupts, and basic error handling.
+This is a course project for MTL458 that I did at IIT Delhi. This project implements a basic Linux shell similar to the bash shell, providing functionality for executing user commands, handling pipes, and implementing built-in commands like `cd`, `history`, and `exit`. The shell interacts with the user through a prompt (MTL458 >) and can handle common Linux commands, user interrupts, and basic error handling.
 
 ## Features
 ### Command Execution:
